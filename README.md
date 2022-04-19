@@ -1,4 +1,4 @@
-[Programação Paralela](https://github.com/AndreaInfUFSM/elc139-2021a) > Trabalhos
+[Programação Paralela](https://github.com/AndreaInfUFSM/elc139-2022a) > Trabalhos
 
 T1: TOP500 & me - Comparativo de Arquiteturas Paralelas
 -------------------------------------------------------
@@ -22,7 +22,6 @@ T1: TOP500 & me - Comparativo de Arquiteturas Paralelas
 
 ## Entrega
 - Você deverá entregar o trabalho no repositório criado após aceite do link no GitHub Classroom.
-- Deadline: até quarta, 26/05, 23h.
 
 ## Bibliografia
 - [Taxonomia de Flynn](https://en.wikipedia.org/wiki/Flynn%27s_taxonomy)
